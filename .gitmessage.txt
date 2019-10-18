@@ -1,0 +1,12 @@
+Title
+
+impact:
+bu:
+details:
+
+#[Merge |][Corrective|Small evolution|Project|Translate|Preventive|Functional] [EZV_[S|I]YYMMDD_NNNN|JIRA_ENCGSB-NNNNN|Mantis_NNNN|SNOW_????|?WHO?_?REF?|Small Title] 
+#------ blank line --------
+#impact: [Technics|Functional|Technics and functional]
+#bu: [ADEO|LMFR|LMES|LMIT|LMPT|LMCY|LMGR|LMPL|LMZA|BMFR|BMES|ALL]
+#details: In english only
+
